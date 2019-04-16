@@ -1,3 +1,5 @@
+//https://codeforces.com/contest/1154/problem/C
+
 a,b,c=(int(x) for x in input().strip().split(" "))
 n=min(a//3,b//2,c//2)
 ans=n*7
