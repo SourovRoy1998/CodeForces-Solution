@@ -1,3 +1,5 @@
+//https://codeforces.com/contest/1154/problem/A
+
 p,q,r,s = (int(x) for x in input().strip().split(" "))
 temp=(p+q+r+s)//3
 
