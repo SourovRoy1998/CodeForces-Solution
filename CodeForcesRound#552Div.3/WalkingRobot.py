@@ -1,4 +1,4 @@
-//https://codeforces.com/contest/1154/problem/D
+##https://codeforces.com/contest/1154/problem/D
 
 n,b,a=(int(x) for x in input().strip().split(" "))
 L=[int(x) for x in input().strip().split(" ")]
